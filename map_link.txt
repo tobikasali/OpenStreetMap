@@ -1,0 +1,11 @@
+
+Map Area
+
+lagos state, Nigeria
+
+http://overpass-api.de/api/map?bbox=2.8482,6.4040,3.9894,6.6755
+
+
+This map is an approximate map of Lagos state where I was born and I am quite familiar with the places and quirks. For example, the metro extract seems to focus on what was known as Lagos City and actually excludes other parts of Lagos state! 
+
+
